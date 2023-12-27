@@ -6,3 +6,4 @@
   - [Standard](https://github.com/pH-JPEG/jpg-mods/blob/main/Nukeballers/Nukeballers.pak): Spitballers fire a three-shot burst of Fat Boy projectiles.
   - [EX](https://github.com/pH-JPEG/jpg-mods/blob/main/Nukeballers/NukeballersEX.pak): Spitballers fire a continuous barrage of slow-moving Fat Boy projectiles that deal zero direct and AoE damage. However, the radiation clouds remain.
   - [U](https://github.com/pH-JPEG/jpg-mods/blob/main/Nukeballers/NukeballersU.pak): Spitballers fire a ten-shot burst of Fat Boy projectiles. The rate of fire of the projectiles is faster than in the Standard version.
+  - [Single](https://github.com/pH-JPEG/jpg-mods/blob/main/Nukeballers/NukeballersSingle.pak): Spitballers fire a single Fat Boy projectile.
