@@ -9,3 +9,7 @@
   - [Single](https://github.com/pH-JPEG/jpg-mods/blob/main/Nukeballers/NukeballersSingle.pak): Spitballers fire a single Fat Boy projectile.
 - [**No Carve Exploders**](https://github.com/pH-JPEG/jpg-mods/blob/main/No%20Carve%20Exploders.pak)
   - Exploders no longer carve terrain upon death. Useful for difficulties that cause heavy terrain desync through exploder spam.
+- [**Unfreezable Stationaries**](https://github.com/pH-JPEG/jpg-mods/blob/main/Unfreezable%20Stationaries.pak)
+  - All stationary enemies (Breeders, Nexuses, Spitballers, and Leeches) can no longer freeze. Useful for disabling Cryo Bolt usage.
+- [**Unfreezable Nexuses**](https://github.com/pH-JPEG/jpg-mods/blob/main/Unfreezable%20Nexuses.pak)
+  - Lighter version of Unfreezable Stationaries where only Nexuses are unfreezable.
